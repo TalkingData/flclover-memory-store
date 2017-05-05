@@ -1,6 +1,6 @@
 {
   "name": "flclover-memory-store",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "flclover-memory-store",
   "keywords": [
     "flclover",
@@ -24,10 +24,10 @@
   "files": [
     "index.js"
   ],
-  "homepage": "https://github.com/flcloverjs/flclover-memory-store",
+  "homepage": "https://github.com/talkingdata/flclover-memory-store",
   "repository": {
     "type": "git",
-    "url": "git@github.com:flcloverjs/flclover-memory-store.git"
+    "url": "git@github.com:TalkingData/flclover-memory-store.git"
   },
   "license": "MIT"
 }
